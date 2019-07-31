@@ -1,6 +1,5 @@
 # People-Counter
 
-![](pc320.gif)
 ![](pc480.gif)
 ### Hardware Requirements
 

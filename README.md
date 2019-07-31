@@ -7,11 +7,9 @@ NVIDIA Jetson Nano with CSI Camera (Raspberry pi v2)
 
 ### Software Requirements
 
-*Install Quartz in MacOS to enable Remote Graphic environment
-
-*PyCharm (Enable remote interpreter)
-
-*Install OpenCV 4.0.0 in the Nvidia Jetson Nano
+* Install Quartz in MacOS to enable Remote Graphic environment
+* PyCharm (Enable remote interpreter)
+* Install OpenCV 4.0.0 in the Nvidia Jetson Nano
 
 ```
 https://github.com/mdegans/nano_build_opencv

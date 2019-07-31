@@ -1,18 +1,21 @@
 # People-Counter
 
-
+![](pc320.gif)
+![](pc480.gif)
 ### Hardware Requirements
 
 NVIDIA Jetson Nano with CSI Camera (Raspberry pi v2)
 
 ### Software Requirements
 
-Install Quartz in MacOS to enable Renote Graphic environment
-PyCharm (Enable remote interpreter)
-Install OpenCV 4.0.0 in the Nvidia Jetson Nano
+*Install Quartz in MacOS to enable Remote Graphic environment
+*PyCharm (Enable remote interpreter)
+*Install OpenCV 4.0.0 in the Nvidia Jetson Nano
+
 ```
 https://github.com/mdegans/nano_build_opencv
 ```
+
 ### Know how 
 
 * Grab a frame
@@ -37,5 +40,5 @@ Connect to the Nvidia Jetson nano
 ssh -Y jetson@192.168.100.35
 ```
 ```
-pythonr peoplecounter.py
+python3 peoplecounter.py
 ```

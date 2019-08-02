@@ -1,6 +1,6 @@
-# People-Counter
+# Objects-Counter
 
-![](pc480.gif)
+![](oc480.gif)
 ### Hardware Requirements
 
 NVIDIA Jetson Nano with CSI Camera (Raspberry pi v2)

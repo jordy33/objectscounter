@@ -39,5 +39,5 @@ Connect to the Nvidia Jetson nano
 ssh -Y jetson@192.168.100.35
 ```
 ```
-python3 peoplecounter.py
+python3 objectscounter.py
 ```

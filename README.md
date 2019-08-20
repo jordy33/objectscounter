@@ -37,6 +37,7 @@ https://github.com/mdegans/nano_build_opencv
 Connect to the Nvidia Jetson nano
 ```
 ssh -Y jetson@192.168.100.35
+password: jetson
 ```
 ```
 python3 objectscounter.py

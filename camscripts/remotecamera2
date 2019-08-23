@@ -1,0 +1,1 @@
+gst-launch-1.0 nvarguscamerasrc ! 'video/x-raw(memory:NVMM),width=640, height=480, framerate=30/1, format=NV12' ! nvvidconv flip-method=2 ! 'video/x-raw,width=320, height=200' ! nvvidconv ! xvimagesink -e
